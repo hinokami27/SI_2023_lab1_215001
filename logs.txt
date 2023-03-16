@@ -1,0 +1,124 @@
+MASTER LOGS
+
+commit 864d2a9db1d84b533ea7fabc1fc04d5f4058e80a (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:38:35 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 7486c06211e678bf3d907e36f7fb502bc7e877d6
+Merge: 0d6e575 99328ce
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:40:05 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 99328ce2fae19f898e1b6409626018b362b54263 (origin/bug2, bug2)
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:37:39 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 0d6e57506535a330059448fb5a443be01c4a0f37 (origin/bug1, bug1)
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:36:13 2023 +0100
+
+    Fix wrong loop for reading
+
+commit beedd68e6b4ef54f2a248b05395edb43c9c1c2ca
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:32:23 2023 +0100
+
+    Add java class
+
+commit 59804e54b87e6d7b972f85a1537768070c0feba9
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Sat Mar 11 20:52:41 2023 +0100
+
+    Initial commit
+
+________________________________________________________________________________________
+
+BUG1 LOGS
+
+commit 0d6e57506535a330059448fb5a443be01c4a0f37 (HEAD -> bug1, origin/bug1)
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:36:13 2023 +0100
+
+    Fix wrong loop for reading
+
+commit beedd68e6b4ef54f2a248b05395edb43c9c1c2ca
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:32:23 2023 +0100
+
+    Add java class
+
+commit 59804e54b87e6d7b972f85a1537768070c0feba9
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Sat Mar 11 20:52:41 2023 +0100
+
+    Initial commit
+
+________________________________________________________________________________________
+
+BUG2 LOGS
+
+commit 99328ce2fae19f898e1b6409626018b362b54263 (HEAD -> bug2, origin/bug2)
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:37:39 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit beedd68e6b4ef54f2a248b05395edb43c9c1c2ca
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:32:23 2023 +0100
+
+    Add java class
+
+commit 59804e54b87e6d7b972f85a1537768070c0feba9
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Sat Mar 11 20:52:41 2023 +0100
+
+    Initial commit
+
+________________________________________________________________________________________
+
+BUG3 LOGS
+
+commit 864d2a9db1d84b533ea7fabc1fc04d5f4058e80a (HEAD -> bug3, origin/master, origin/bug3, master)
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:38:35 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 7486c06211e678bf3d907e36f7fb502bc7e877d6
+Merge: 0d6e575 99328ce
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:40:05 2023 +0100
+
+    Merge branch 'bug2'
+
+
+commit 99328ce2fae19f898e1b6409626018b362b54263 (origin/bug2, bug2)
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:37:39 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 0d6e57506535a330059448fb5a443be01c4a0f37 (origin/bug1, bug1)
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:36:13 2023 +0100
+
+    Fix wrong loop for reading
+
+commit beedd68e6b4ef54f2a248b05395edb43c9c1c2ca
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Thu Mar 16 18:32:23 2023 +0100
+
+    Add java class
+
+commit 59804e54b87e6d7b972f85a1537768070c0feba9
+Author: Dragan Golaboski <dragangolab@gmail.com>
+Date:   Sat Mar 11 20:52:41 2023 +0100
+
+    Initial commit
